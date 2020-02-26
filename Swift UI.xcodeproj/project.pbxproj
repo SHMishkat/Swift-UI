@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A20AFF0224065083008B5C2A /* circleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20AFF0124065083008B5C2A /* circleImage.swift */; };
+		A20AFF04240653DF008B5C2A /* mapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20AFF03240653DF008B5C2A /* mapView.swift */; };
 		A232233124058F50002C22A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232233024058F50002C22A9 /* AppDelegate.swift */; };
 		A232233324058F50002C22A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232233224058F50002C22A9 /* SceneDelegate.swift */; };
 		A232233524058F50002C22A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A232233424058F50002C22A9 /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A20AFF0124065083008B5C2A /* circleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = circleImage.swift; sourceTree = "<group>"; };
+		A20AFF03240653DF008B5C2A /* mapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mapView.swift; sourceTree = "<group>"; };
 		A232232D24058F50002C22A9 /* Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A232233024058F50002C22A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A232233224058F50002C22A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				A232233B24058F56002C22A9 /* LaunchScreen.storyboard */,
 				A232233E24058F56002C22A9 /* Info.plist */,
 				A232233824058F56002C22A9 /* Preview Content */,
+				A20AFF0124065083008B5C2A /* circleImage.swift */,
+				A20AFF03240653DF008B5C2A /* mapView.swift */,
 			);
 			path = "Swift UI";
 			sourceTree = "<group>";
@@ -147,7 +153,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A232233124058F50002C22A9 /* AppDelegate.swift in Sources */,
+				A20AFF0224065083008B5C2A /* circleImage.swift in Sources */,
 				A232233324058F50002C22A9 /* SceneDelegate.swift in Sources */,
+				A20AFF04240653DF008B5C2A /* mapView.swift in Sources */,
 				A232233524058F50002C22A9 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
